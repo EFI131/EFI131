@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EFI131
-- 👀 I’m interested in Java, Web, C, Algorithms
+- 👀 I’m interested in Kotlin, Java, Web, C, Algorithms
 - 💞️ I’m looking to collaborate on Web, Android, or C projects
 
 <!---
